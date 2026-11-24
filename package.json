@@ -1,6 +1,6 @@
 {
   "name": "cbrowser-ui",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "One CSS file. Your framework. Now accessible. Drop-in accessibility layer for Bootstrap, Tailwind, shadcn, Material — or use as a standalone framework.",
   "main": "dist/cbrowser-ui.js",
   "module": "dist/cbrowser-ui.mjs",
